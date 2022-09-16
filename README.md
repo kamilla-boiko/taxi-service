@@ -4,7 +4,7 @@ Django project for managing cars and drivers in Taxi Companies
 
 ## Check it out!
 
-[Taxi service project deployed to Heroku](link)
+[Taxi service project deployed to Heroku](https://taxi-driver-service.herokuapp.com/)
 
 ## Installation
 
@@ -19,6 +19,10 @@ pip install -r requirements.txt
 python manage.py runserver  # starts Django Server
 ```
 
+## Test User
+* Username: test.user
+* Password: Test12345
+
 ## Features
 
 * Authentication functionality for Driver/User
@@ -29,3 +33,4 @@ python manage.py runserver  # starts Django Server
 ## Demo
 
 ![Website Interface](demo.png)
+
